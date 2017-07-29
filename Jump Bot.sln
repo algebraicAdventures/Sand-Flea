@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump Bot.Plugins", "Jump Bot.Plugins.csproj", "{9734952E-0375-79B7-432E-19178F94DD4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump Bot", "Jump Bot.csproj", "{F4AA7AED-B596-55CC-3036-7E0B2BF7BF9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump Bot.Editor.Plugins", "Jump Bot.Editor.Plugins.csproj", "{8BAF0FBE-82B4-8606-8A57-087B782AF25E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9734952E-0375-79B7-432E-19178F94DD4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9734952E-0375-79B7-432E-19178F94DD4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9734952E-0375-79B7-432E-19178F94DD4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9734952E-0375-79B7-432E-19178F94DD4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4AA7AED-B596-55CC-3036-7E0B2BF7BF9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4AA7AED-B596-55CC-3036-7E0B2BF7BF9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4AA7AED-B596-55CC-3036-7E0B2BF7BF9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4AA7AED-B596-55CC-3036-7E0B2BF7BF9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BAF0FBE-82B4-8606-8A57-087B782AF25E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAF0FBE-82B4-8606-8A57-087B782AF25E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAF0FBE-82B4-8606-8A57-087B782AF25E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAF0FBE-82B4-8606-8A57-087B782AF25E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
